@@ -2,6 +2,15 @@ Developer, husband, and dad. Into nerdy deep dives and figuring stuff out.
 I’m all about a simple workflow—tiling window managers, nvim, and terminal stuff are my go-to. 
 Love Swift, Rust, and poking around in Go. Messing around with AI, code, and all things ᯅ
 
+
+		███████╗██╗  ██╗██╗██╗     ██╗         ██╗███████╗███████╗██╗   ██╗███████╗
+		██╔════╝██║ ██╔╝██║██║     ██║         ██║██╔════╝██╔════╝██║   ██║██╔════╝
+		███████╗█████╔╝ ██║██║     ██║         ██║███████╗███████╗██║   ██║█████╗  
+		╚════██║██╔═██╗ ██║██║     ██║         ██║╚════██║╚════██║██║   ██║██╔══╝  
+		███████║██║  ██╗██║███████╗███████╗    ██║███████║███████║╚██████╔╝███████╗
+		╚══════╝╚═╝  ╚═╝╚═╝╚══════╝╚══════╝    ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝        
+
+
 ---------
 
 <!-- my-badges start -->
