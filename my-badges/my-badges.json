@@ -75,5 +75,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/martinmose/commit/fb468a75a16536f29eef40d90a142df4b5abd416\">fb468a7</a>: chore: update README",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   }
 ]
