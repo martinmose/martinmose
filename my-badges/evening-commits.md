@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/aoc-2024/commit/72d22a26eea946f5c96ae101ddc285c5824d1eb8">72d22a2</a>
-- <a href="https://github.com/martinmose/aoc-2024/commit/d73f7693ae0400c63af6f0bc76049e46e7e770de">d73f769</a>
-- <a href="https://github.com/martinmose/aoc-2024/commit/ddd2696e25b859126940a01ae59caac9f7ef8810">ddd2696</a>
-- <a href="https://github.com/martinmose/aoc-2024/commit/51d04812ab597410abd60997e9945aa5b49a37ef">51d0481</a>
-- <a href="https://github.com/martinmose/aoc-2024/commit/2624747fa97e592a7dec695897ee2c2136220013">2624747</a>
-- <a href="https://github.com/martinmose/aoc-2024/commit/b04957918aa7ebbe375c5d8f85ddbad6f10c342a">b049579</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/869b13d24dc0953b2846d493871575efa64fed1e">869b13d</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/6c897538a4df063be883da10abfde507ace72292">6c89753</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/9a572aab4fcccdfb2256b96aa247dca7f6e1eb70">9a572aa</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/ad78ce745a3cb190865e0502777c23f5010dc4ba">ad78ce7</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/6b1040aa5c549d505b0de07116e08ba416dd4543">6b1040a</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/99e0c6b1474a82229e6784634615add9a199dcd1">99e0c6b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
