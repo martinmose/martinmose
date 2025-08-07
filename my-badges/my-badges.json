@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 39 times)\n2. day (used 24 times)\n3. update (used 11 times)\n4. level (used 8 times)\n5. commit (used 7 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 40 times)\n2. day (used 24 times)\n3. update (used 11 times)\n4. level (used 8 times)\n5. commit (used 7 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/7ae0d8e937af43ccdcad2bdb884649ae54999038\">7ae0d8e</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/869b13d24dc0953b2846d493871575efa64fed1e\">869b13d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/6c897538a4df063be883da10abfde507ace72292\">6c89753</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/9a572aab4fcccdfb2256b96aa247dca7f6e1eb70\">9a572aa</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/ad78ce745a3cb190865e0502777c23f5010dc4ba\">ad78ce7</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/6b1040aa5c549d505b0de07116e08ba416dd4543\">6b1040a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/ee4c8a441e2e61c947a8771ce1aa7aee4f4ce662\">ee4c8a4</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c33270626ca1d30404fabeb744bd6ebcfc9ca687\">c332706</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/f4913b6bc649b5a8a6d9bd4644d4439fce3b41b7\">f4913b6</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/16a23ce7cfb21329838a7df6b190b917d93f28cb\">16a23ce</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/23ff367e197718c623870c10e3e9fdf3692eca65\">23ff367</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/226c70cecc914c99a44cdf5a88ec5819e17773ee\">226c70c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -96,5 +96,12 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/3f0340dee220f64e18b30a4c3cff43cb0fa02758\">3f0340d</a>: fix: uninstall defaults script\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/323c19a373a39d74f10515b4d901efbd584d2c6b\">323c19a</a>: fix: use omarchy option",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/226c70cecc914c99a44cdf5a88ec5819e17773ee\">226c70c</a>: fix: nerd-fonts-symbols\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/30bb3a40c1b0fc8a5423a168f1e8eebe4a05b0b6\">30bb3a4</a>: fix: install proton-mail as web app for omarchy\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/7ae0d8e937af43ccdcad2bdb884649ae54999038\">7ae0d8e</a>: fix: some improments",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
