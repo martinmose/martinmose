@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/9a572aab4fcccdfb2256b96aa247dca7f6e1eb70">9a572aa</a>: chore: README inspriation added
+- <a href="https://github.com/martinmose/agentlink/commit/3a93d561716a5b53ee38c4db0a1ec18ecefebcdf">3a93d56</a>: chore: update README
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
