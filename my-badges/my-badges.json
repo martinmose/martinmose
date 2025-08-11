@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 44 times)\n2. day (used 24 times)\n3. update (used 13 times)\n4. commit (used 8 times)\n5. level (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 44 times)\n2. day (used 24 times)\n3. update (used 14 times)\n4. readme (used 8 times)\n5. commit (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,21 +66,21 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/db6fd4f74e15ac9dccfb3575a0ebf8f1f53dd8f8\">db6fd4f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5df9f6bdb1de9c198f073c389199001188760b51\">5df9f6b</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/2383d3fa34d9feec085056153652728d599a55f6\">2383d3f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/ee4c8a441e2e61c947a8771ce1aa7aee4f4ce662\">ee4c8a4</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c33270626ca1d30404fabeb744bd6ebcfc9ca687\">c332706</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/f4913b6bc649b5a8a6d9bd4644d4439fce3b41b7\">f4913b6</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/5dd065bfa6fb2b1ced60601166478fc747abc805\">5dd065b</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/db6fd4f74e15ac9dccfb3575a0ebf8f1f53dd8f8\">db6fd4f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5df9f6bdb1de9c198f073c389199001188760b51\">5df9f6b</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/2383d3fa34d9feec085056153652728d599a55f6\">2383d3f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/ee4c8a441e2e61c947a8771ce1aa7aee4f4ce662\">ee4c8a4</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c33270626ca1d30404fabeb744bd6ebcfc9ca687\">c332706</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/3a93d561716a5b53ee38c4db0a1ec18ecefebcdf\">3a93d56</a>: chore: update README",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>: chore: update README",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {

@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/agentlink/commit/3a93d561716a5b53ee38c4db0a1ec18ecefebcdf">3a93d56</a>: chore: update README
+- <a href="https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c">9950cbc</a>: chore: update README
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
