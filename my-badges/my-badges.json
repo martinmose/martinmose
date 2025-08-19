@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 44 times)\n2. day (used 24 times)\n3. update (used 14 times)\n4. readme (used 8 times)\n5. commit (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 46 times)\n2. day (used 24 times)\n3. update (used 14 times)\n4. readme (used 8 times)\n5. commit (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,7 +66,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/5dd065bfa6fb2b1ced60601166478fc747abc805\">5dd065b</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/db6fd4f74e15ac9dccfb3575a0ebf8f1f53dd8f8\">db6fd4f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5df9f6bdb1de9c198f073c389199001188760b51\">5df9f6b</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/2383d3fa34d9feec085056153652728d599a55f6\">2383d3f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/ee4c8a441e2e61c947a8771ce1aa7aee4f4ce662\">ee4c8a4</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c33270626ca1d30404fabeb744bd6ebcfc9ca687\">c332706</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/61a301f6132fbc4da31fc914020a09f456514135\">61a301f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c071cb349b85befd49cd1811fc44823e3e3ec8b0\">c071cb3</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/4aadfefac0af8e9528c8afae54ec56ff5f93de78\">4aadfef</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/5dd065bfa6fb2b1ced60601166478fc747abc805\">5dd065b</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/db6fd4f74e15ac9dccfb3575a0ebf8f1f53dd8f8\">db6fd4f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5df9f6bdb1de9c198f073c389199001188760b51\">5df9f6b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
