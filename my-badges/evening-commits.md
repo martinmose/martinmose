@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/a962d71f8052147d48d3b907161b3fb353dfc6c2">a962d71</a>
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/c1b37d7269eb925d2a20f0a04d2853109f5a3a33">c1b37d7</a>
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/d1e428d9f5a5abb75768a2401fe29e7c11308f1b">d1e428d</a>
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/ce02ded7431f2ca43e69faaaf26ffad81fbd41d4">ce02ded</a>
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/c4d0574d5ccf43e8e9c3e4658e46f069dea62495">c4d0574</a>
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/dd4dc18e496da9c4f06f97fdccfedc4ffe89e521">dd4dc18</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/0e5479c080572485605855216221495db186d356">0e5479c</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/760aed6d236ac3496901d731f13e3a6b0595b49b">760aed6</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/8f9238ee47991c5e3a3f4ea13cd986875bb7b1aa">8f9238e</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/b3012b5e4d225e6b28ac249e16305e8882187c56">b3012b5</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/a1a88492cde9c16df8b733b06e0a4b34ae97e31a">a1a8849</a>
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/9a1e2a72191196b5586318a4ec94e7f076abc272">9a1e2a7</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

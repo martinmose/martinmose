@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/226c70cecc914c99a44cdf5a88ec5819e17773ee">226c70c</a>: fix: nerd-fonts-symbols
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/30bb3a40c1b0fc8a5423a168f1e8eebe4a05b0b6">30bb3a4</a>: fix: install proton-mail as web app for omarchy
-- <a href="https://github.com/martinmose/crucible-omarchy/commit/7ae0d8e937af43ccdcad2bdb884649ae54999038">7ae0d8e</a>: fix: some improments
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/760aed6d236ac3496901d731f13e3a6b0595b49b">760aed6</a>: fix: initial rust installed stuff
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/8f9238ee47991c5e3a3f4ea13cd986875bb7b1aa">8f9238e</a>: fix: check if Ghostty is already default terminal
+- <a href="https://github.com/martinmose/crucible-omarchy/commit/b3012b5e4d225e6b28ac249e16305e8882187c56">b3012b5</a>: fix: beekeeper-studio install
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
