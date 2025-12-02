@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 67 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 19 times)\n5. commit (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 73 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 20 times)\n5. commit (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -80,7 +80,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>: chore: update README",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/6c271cbd9c7a3bd459671f6811e6658a90b050ce\">6c271cb</a>: chore: add README",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
