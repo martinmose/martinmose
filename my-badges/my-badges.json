@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 76 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 20 times)\n5. commit (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 78 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 20 times)\n5. remove (used 8 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/4803007b9cd99eb4d98c7abf6f8dace71e4fc03e\">4803007</a>: fix: wrong gitignore\n- <a href=\"https://github.com/martinmose/agentlink/commit/25c2f7d74533915dbd2f239c605816aa9584856c\">25c2f7d</a>: fix: staticcheck issue",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/139a3de0ec2e51b64a4f46cfba1eefc158cacd72\">139a3de</a>: fix: weird issue with py env\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/364d0dc6cab6c108a0761d701f0a15fce5265f59\">364d0dc</a>: fix: ups remove unused import",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {

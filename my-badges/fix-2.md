@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/agentlink/commit/4803007b9cd99eb4d98c7abf6f8dace71e4fc03e">4803007</a>: fix: wrong gitignore
-- <a href="https://github.com/martinmose/agentlink/commit/25c2f7d74533915dbd2f239c605816aa9584856c">25c2f7d</a>: fix: staticcheck issue
+- <a href="https://github.com/martinmose/aoc-2025/commit/139a3de0ec2e51b64a4f46cfba1eefc158cacd72">139a3de</a>: fix: weird issue with py env
+- <a href="https://github.com/martinmose/aoc-2025/commit/364d0dc6cab6c108a0761d701f0a15fce5265f59">364d0dc</a>: fix: ups remove unused import
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
