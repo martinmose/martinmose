@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/aoc-2025/commit/139a3de0ec2e51b64a4f46cfba1eefc158cacd72">139a3de</a>: fix: weird issue with py env
-- <a href="https://github.com/martinmose/aoc-2025/commit/364d0dc6cab6c108a0761d701f0a15fce5265f59">364d0dc</a>: fix: ups remove unused import
+- <a href="https://github.com/martinmose/aoc-2025/commit/908f03ed3d9a5c0e62ea215937ffc1c08683c252">908f03e</a>: fix: ups
+- <a href="https://github.com/martinmose/aoc-2025/commit/4b0f63e0427400e33d5656209348b5dcf5015684">4b0f63e</a>: fix: linting errors
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
