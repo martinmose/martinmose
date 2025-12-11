@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 81 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 20 times)\n5. solution (used 8 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 83 times)\n2. update (used 24 times)\n3. day (used 24 times)\n4. readme (used 20 times)\n5. solution (used 10 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/01db26fe4e49c411115bf46d2b0c12e5928fbe1f\">01db26f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5edef7e95bad3962176f358356cb13633f7d5af5\">5edef7e</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8550a72825e165ac8217bde0906160dda2a7b6a4\">8550a72</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/0e5479c080572485605855216221495db186d356\">0e5479c</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/760aed6d236ac3496901d731f13e3a6b0595b49b\">760aed6</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8f9238ee47991c5e3a3f4ea13cd986875bb7b1aa\">8f9238e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/6811d39570ace60b24dd67e49e2b59067d436474\">6811d39</a>\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/e2219ed5d170414ab05562251d0d0acf80aac8b9\">e2219ed</a>\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/01db26fe4e49c411115bf46d2b0c12e5928fbe1f\">01db26f</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/5edef7e95bad3962176f358356cb13633f7d5af5\">5edef7e</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8550a72825e165ac8217bde0906160dda2a7b6a4\">8550a72</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/0e5479c080572485605855216221495db186d356\">0e5479c</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/54a879e317066d673403dacb6beadef785dc55b8\">54a879e</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -94,7 +94,7 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/908f03ed3d9a5c0e62ea215937ffc1c08683c252\">908f03e</a>: fix: ups\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/4b0f63e0427400e33d5656209348b5dcf5015684\">4b0f63e</a>: fix: linting errors",
+    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/7e952c2da2b7bbf5c867f8d6c840fc26d8f0ca5f\">7e952c2</a>: fix: ups\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/54a879e317066d673403dacb6beadef785dc55b8\">54a879e</a>: fix: linting issues",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {

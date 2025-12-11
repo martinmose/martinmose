@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/aoc-2025/commit/908f03ed3d9a5c0e62ea215937ffc1c08683c252">908f03e</a>: fix: ups
-- <a href="https://github.com/martinmose/aoc-2025/commit/4b0f63e0427400e33d5656209348b5dcf5015684">4b0f63e</a>: fix: linting errors
+- <a href="https://github.com/martinmose/aoc-2025/commit/7e952c2da2b7bbf5c867f8d6c840fc26d8f0ca5f">7e952c2</a>: fix: ups
+- <a href="https://github.com/martinmose/aoc-2025/commit/54a879e317066d673403dacb6beadef785dc55b8">54a879e</a>: fix: linting issues
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
