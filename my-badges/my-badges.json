@@ -110,5 +110,12 @@
     "desc": "I pushed a commit with \"cafe\" once.",
     "body": "- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/98b969c38cfc5e803dc8f080ccafea5da72e53f6\">98b969c38cfc5e803dc8f080c<strong>cafe</strong>a5da72e53f6</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "old-issue-8",
+    "tier": 8,
+    "desc": "I closed an issue that was open for 8 years",
+    "body": "Issues:\n\n- <a href=\"https://github.com/livereload/LiveReload/issues/26\">#26</a>: Only listen for certain file types in a folder instead of everything inside a folder",
+    "image": "https://my-badges.github.io/my-badges/old-issue-8.png"
   }
 ]

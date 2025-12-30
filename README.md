@@ -31,4 +31,5 @@ Messing around with AI, code, and platform engineering. Breaking things to learn
 <a href="my-badges/fix-2.md"><img src="https://my-badges.github.io/my-badges/fix-2.png" alt="I did 2 sequential fixes." title="I did 2 sequential fixes." width="64"></a>
 <a href="my-badges/fix-3.md"><img src="https://my-badges.github.io/my-badges/fix-3.png" alt="I did 3 sequential fixes." title="I did 3 sequential fixes." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
+<a href="my-badges/old-issue-8.md"><img src="https://my-badges.github.io/my-badges/old-issue-8.png" alt="I closed an issue that was open for 8 years" title="I closed an issue that was open for 8 years" width="64"></a>
 <!-- my-badges end -->
