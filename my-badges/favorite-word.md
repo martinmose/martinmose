@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. update (used 24 times)
 3. day (used 24 times)
 4. readme (used 20 times)
-5. remove (used 13 times)
+5. replace (used 14 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
