@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/martinmose/aoc-2025/commit/6c271cbd9c7a3bd459671f6811e6658a90b050ce">6c271cb</a>: chore: add README
+- <a href="https://github.com/martinmose/opencode-vision-bridge/commit/38e587801ff2327f2c3aa6ddd44e08e7ec7a9597">38e5878</a>: chore: pin Flox package versions
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
