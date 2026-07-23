@@ -7,13 +7,6 @@
     "image": "https://my-badges.github.io/my-badges/covid-19.png"
   },
   {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 100 times)\n2. day (used 24 times)\n3. readme (used 22 times)\n4. update (used 22 times)\n5. replace (used 14 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
     "id": "github-anniversary-5",
     "tier": 0,
     "desc": "I joined GitHub 5 years ago.",
@@ -63,55 +56,6 @@
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/f0e86065625a598817c76a3f444435cac164ba9d\">f0e8606</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/aee6cf640c4b62efeb7a878cb8fefb6d8d32aebf\">aee6cf6</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8b509f164e3c4b6ceff3eec830f948d3ed67304a\">8b509f1</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/3e631ad0b73006f53f4adaa8449826b3f8d55207\">3e631ad</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/16f428a513b98c8ab21ac5d5aab7250eebce65ef\">16f428a</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/bb0919ee1648001492cb7899e11ffc3aed5be2d3\">bb0919e</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/54a879e317066d673403dacb6beadef785dc55b8\">54a879e</a>\n- <a href=\"https://github.com/martinmose/agentlink/commit/9950cbc80090b3943b0be112c5eb070fff763e3c\">9950cbc</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b49bc5d9f1bca1d90b6ac7c2ab5c2a0c6bd61094\">b49bc5d</a>\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/c48a8ddfc28f9c0642b5d0a77cb37d6a9001709d\">c48a8dd</a>\n- <a href=\"https://github.com/martinmose/githug/commit/9ad34ed49996608e39ded07724df76c051baf720\">9ad34ed</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/opencode-vision-bridge/commit/38e587801ff2327f2c3aa6ddd44e08e7ec7a9597\">38e5878</a>: chore: pin Flox package versions",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/martinmose/webflyx/commit/a64f4b949e4e999c1855efc0849aa664e88a8f0b\"><strong>a</strong>64f4b949e4e999c1855efc0849aa664e88a8f0b</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/7e952c2da2b7bbf5c867f8d6c840fc26d8f0ca5f\">7e952c2</a>: fix: ups\n- <a href=\"https://github.com/martinmose/aoc-2025/commit/54a879e317066d673403dacb6beadef785dc55b8\">54a879e</a>: fix: linting issues",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/760aed6d236ac3496901d731f13e3a6b0595b49b\">760aed6</a>: fix: initial rust installed stuff\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8f9238ee47991c5e3a3f4ea13cd986875bb7b1aa\">8f9238e</a>: fix: check if Ghostty is already default terminal\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/b3012b5e4d225e6b28ac249e16305e8882187c56\">b3012b5</a>: fix: beekeeper-studio install",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" once.",
-    "body": "- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/98b969c38cfc5e803dc8f080ccafea5da72e53f6\">98b969c38cfc5e803dc8f080c<strong>cafe</strong>a5da72e53f6</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
     "id": "old-issue-8",
     "tier": 8,
     "desc": "I closed an issue that was open for 8 years",
@@ -138,19 +82,5 @@
     "desc": "I'm a star gazer!",
     "body": "I've starred over 1000 repositories!",
     "image": "https://my-badges.github.io/my-badges/star-gazer.png"
-  },
-  {
-    "id": "may-the-4th",
-    "tier": 0,
-    "desc": "May the 4th be with you!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/7b6d92890cbf780aba49c268b94f302b2eae6b0a\">7b6d928</a>",
-    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/martinmose/crucible-omarchy/commit/8b509f164e3c4b6ceff3eec830f948d3ed67304a\">8b509f1</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   }
 ]
